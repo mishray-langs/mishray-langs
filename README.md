@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mishray-langs
-- 👀 I’m interested in Networking database and server
-- 🌱 I’m currently learning CCNA and SQL server
-- 💞️ I’m looking to collaborate on on any new projects 
+- 👀 I’m interested in Networking virtualization and server
+- 🌱 I’m currently learning CCNA and virtualization 
+- 💞️ I’m looking to collaborate on any new projects 
 - 📫 How to reach me mlv.mic@gmail.com
 
 <!---
